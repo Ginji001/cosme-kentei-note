@@ -1,0 +1,23 @@
+{
+  "name": "日本化粧品検定 1級（第27回）",
+  "exam_date": "2026-11-29",
+  "exam_time": "14:15-15:15",
+  "apply_deadline": "2026-10-20",
+  "bank_transfer_deadline": "2026-10-07",
+  "study_start": "2026-10-11",
+  "weekly_hours": 5,
+  "format": {
+    "type": "マークシート4択",
+    "minutes": 60,
+    "questions": 60,
+    "questions_verify": true,
+    "pass_rate_approx": 0.7,
+    "pass_note": "正答率70％前後（難易度により変動）"
+  },
+  "scope_note": "1級範囲に加え、2級・準2級・3級の範囲からも出題",
+  "materials": [
+    "1級対策テキスト コスメの教科書 第3版",
+    "1級対策問題集（第3版対応）",
+    "2級範囲：2級対策テキスト 第3版（手元にあれば）"
+  ]
+}

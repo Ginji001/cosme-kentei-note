@@ -1,0 +1,14 @@
+codex_log.txt
+codex_result.md
+.DS_Store
+dist/
+codex_log_android.txt
+codex_result_android.md
+codex_log_startdate.txt
+codex_result_startdate.md
+codex_log_guide.txt
+codex_result_guide.md
+codex_log_quiz.txt
+codex_result_quiz.md
+codex_log_quiz2.txt
+codex_result_quiz2.md

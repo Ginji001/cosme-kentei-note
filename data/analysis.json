@@ -1,0 +1,54 @@
+{
+  "fields": [
+    "product_name",
+    "product_type",
+    "full_ingredients",
+    {
+      "major": [
+        "ingredient",
+        "category",
+        "purpose"
+      ]
+    },
+    {
+      "skeleton": [
+        "水性",
+        "油性",
+        "界面活性剤",
+        "機能性",
+        "安定化・その他"
+      ]
+    },
+    "explain_30s"
+  ],
+  "rule_questions": [
+    {
+      "item": "表示順序",
+      "question": "基本は？"
+    },
+    {
+      "item": "1％以下",
+      "question": "境目と並び順のルールは？"
+    },
+    {
+      "item": "色材",
+      "question": "表示位置のルールは？"
+    },
+    {
+      "item": "香料",
+      "question": "表示のされ方は？"
+    },
+    {
+      "item": "医薬部外品との違い",
+      "question": "有効成分の扱いは？"
+    },
+    {
+      "item": "製品種類の推定",
+      "question": "上位の成分から何が分かる？"
+    },
+    {
+      "item": "処方の骨格",
+      "question": "5つの分類は？"
+    }
+  ]
+}
